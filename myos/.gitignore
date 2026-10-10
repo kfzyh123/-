@@ -1,0 +1,5 @@
+# build intermediates (kept out of git; os.img is committed for direct use)
+*.o
+*.elf
+boot.bin
+kernel.bin
